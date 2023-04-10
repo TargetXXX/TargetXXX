@@ -1,11 +1,11 @@
- # 👋 Привет! Welkom by my Github-profiel.
-## मेरा नाम एडुआर्डो है
+ # 👋 Hello there! Welcome to my profile.
+## I'm Eduardo Oliveira and I love programming.
 
 ![Snake animation](https://github.com/alexmpereira/alexmpereira/blob/output/github-contribution-grid-snake.svg)
 
-- 🔭 I'm currently working on Gazin Tech as apprentice
-- 📚 I'm learning PHP, JS, C#, JAVA, PYTHON
-- 👾 I like playing sports such as football and basketball
+- 🔭 I'm currently working at Gazin Tech as an apprentice.
+- 📚 I'm learning PHP, JS, C#, JAVA, PYTHON, etc.
+- 👾 I like playing sports such as football and basketball.
 
           
 ## Contacts:
