@@ -1,7 +1,7 @@
 # 👋 Hello, welcome to my profile!
 
 ## Eduardo Oliveira  
-💻 Junior Backend Developer  
+💻 Full-Stack Developer  
 
 🚀 I build practical systems, automate processes and turn ideas into real, working products.
 
